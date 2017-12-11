@@ -3,7 +3,7 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name導覽首府</name>
+    <name>導覽首府</name>
     <description>導覽軟體</description>
     <author href="沒" email="無">作者姓名青蛙</author>
     <!-- Configuration End -->
